@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Complete Web Development Course with Jhankar Mahbub**
 
-- 💬 Ask me about **HTML,CSS,Git & Github**
+- 💬 Ask me about **HTML,CSS,Git & Github,JS**
 
 - 📫 How to reach me **ranasheikhsbd@gmail.com**
 
