@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rana Ahmed</h1>
-<h3 align="center">A passionate MEARN stack developer from Bangladesh</h3>
+<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
 <img align="right" alt="coding" width="400px" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranasheikhzn&label=Profile%20views&color=0e75b6&style=flat" alt="ranasheikhzn" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ranasheikhzn" target="blank"><img src="https://img.shields.io/twitter/follow/ranasheikhzn?logo=twitter&style=for-the-badge" alt="ranasheikhzn" /></a> </p>
 
-- 🌱 I’m currently learning **PHP And Laravel**
+- 🌱 I’m currently working at **[DeveloperLook](https://www.linkedin.com/company/developerlook/)**
 
-- 👨‍💻 All of my projects are available at [ranaahmed.netlify.app](https://ranaahmed.netlify.app/)
+- 👨‍💻 Some of my live projects are available at [ranaahmed.netlify.app](https://ranaahmed.netlify.app/)
 
 - 💬 Ask me about **MERN Stack Development**
 
