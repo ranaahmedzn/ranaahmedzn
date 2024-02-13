@@ -4,9 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ranasheikhzn&label=Profile%20views&color=0e75b6&style=flat" alt="ranasheikhzn" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ranasheikhzn" target="blank"><img src="https://img.shields.io/twitter/follow/ranasheikhzn?logo=twitter&style=for-the-badge" alt="ranasheikhzn" /></a> </p>
-
-- 🌱 I’m currently working at **[DeveloperLook](https://www.linkedin.com/company/developerlook/)**
+- 🌱 I’m currently working at **[DeveloperLook](https://developerlook.com/)**
 
 - 👨‍💻 Some of my live projects are available at [ranaahmed.netlify.app](https://ranaahmed.netlify.app/)
 
