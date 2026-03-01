@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently working at **[DeveloperLook](https://developerlook.com/)**
 
-- 👨‍💻 Some of my live projects are available at [ranaahmed.netlify.app](https://ranaahmed.netlify.app/)
+- 👨‍💻 Some of my live projects are available at [ranaahmed.com](https://www.ranaahmed.com/)
 
 - 💬 Ask me about **MERN Stack Development**
 
