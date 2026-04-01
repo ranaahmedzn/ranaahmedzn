@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MERN Stack Development**
 
-- 📫 How to reach me **rana48ahmed@gmail.com**
+- 📫 How to reach me **contact@ranaahmed.com**
 
 - 📄 To know more check my [Resume](https://drive.google.com/file/d/1fW8nU1Q8OiqtLEgkXB1Hxy90J3ue-ywq/view?usp=sharing)
 
