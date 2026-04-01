@@ -8,17 +8,17 @@
 
 - 👨‍💻 Some of my live projects are available at [ranaahmed.com](https://www.ranaahmed.com/)
 
-- 💬 Ask me about **MERN Stack Development**
+- 💬 Ask me about **Full Stack Development**
 
 - 📫 How to reach me **contact@ranaahmed.com**
 
-- 📄 To know more check my [Resume](https://drive.google.com/file/d/1fW8nU1Q8OiqtLEgkXB1Hxy90J3ue-ywq/view?usp=sharing)
+- 📄 To know more check my [Resume](https://drive.google.com/file/d/1nm3YMz1Hf5eICO-oqfRgIzwqPDZU4Qem/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ranaahmedzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranaahmedzn" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ranaahmedzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranaahmedzn" height="30" width="40" /></a>
 <a href="https://fb.com/ranaahmedzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ranaahmedzn" height="30" width="40" /></a>
+<a href="https://twitter.com/ranaahmedzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranaahmedzn" height="30" width="40" /></a>
 <a href="https://instagram.com/ranaahmedzn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ranaahmedzn" height="30" width="40" /></a>
 </p>
 
