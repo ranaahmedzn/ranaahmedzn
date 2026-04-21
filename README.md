@@ -1,6 +1,6 @@
 <h1> Hi 👋, I'm Rana Ahmed </h1>
 <img src="./cover.png" alt="Cover Image">
-<h2>Full Stack MERN Developer</h2>
+<h2>Full Stack Developer</h2>
 <p>
 A passionate developer focusing on building clean, robust, and scalable web applications. With a proven ability to adapt to both self-starting and collaborative environments while staying focused on achieving high-quality results.
 </p>
@@ -15,7 +15,7 @@ A passionate developer focusing on building clean, robust, and scalable web appl
 
 ## 🚀 Quick Highlights
 
-- 💼 I’m currently working as a Full Stack Developer at **[DeveloperLook](https://developerlook.com/)**.
+- 🎯 I focus on developing full-stack applications with high performance and scalable architectures.
 - 🌱 I’m constantly exploring new technologies and building innovative web solutions.
 - 💬 Ask me about **React, Node.js, Next.js, and modern web architecture**.
 - ⚡ Fun fact: I love solving complex problems and crafting seamless user experiences.
@@ -49,7 +49,6 @@ A passionate developer focusing on building clean, robust, and scalable web appl
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
 ![Stripe](https://img.shields.io/badge/Stripe-008CDD?logo=stripe&logoColor=white)
-![AI Agent](https://img.shields.io/badge/AI_Agent-000000?logo=openai&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
@@ -61,12 +60,11 @@ A passionate developer focusing on building clean, robust, and scalable web appl
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
-![Domain Management](https://img.shields.io/badge/Domain_Management-14354C?logo=cpanel&logoColor=white)
 
 ## 📫 How To Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranaahmedzn)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white)](https://wa.me/8801781940069)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://fb.com/ranaahmedzn)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/ranaahmedzn)
 
