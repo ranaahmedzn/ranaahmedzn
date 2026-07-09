@@ -68,7 +68,7 @@ A passionate developer focusing on building clean, robust, and scalable web appl
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://fb.com/ranaahmedzn)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/ranaahmedzn)
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 | <a href="https://github.com/ranaahmedzn"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranaahmedzn&hide_border=true" alt="Rana's GitHub Streak" /></a> | <a href="https://github.com/ranaahmedzn"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranaahmedzn&layout=compact&hide_border=true" alt="Top Languages" /></a> |
-| ------------- | ------------- |
+| ------------- | ------------- | -->
